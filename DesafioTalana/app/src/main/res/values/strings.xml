@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Desafio Talana</string>
+    <string name="userName">NOMBRE DE USUARIO</string>
+    <string name="userPass">CONTRASEÑA</string>
+    <string name="ingresar">INGRESAR</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Favoritos</string>
+</resources>
